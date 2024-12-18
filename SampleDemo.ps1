@@ -1,4 +1,4 @@
 ﻿Write-host "Hello"
 $K = Get-date
 
-Write-host "Current Date is" $K -ForegroundColor green
+Write-host "Current Date is" $K -ForegroundColor Cyan
